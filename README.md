@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<img width="960" height="400" alt="product view part 2" src="https://github.com/user-attachments/assets/a67afe5c-d445-401b-b983-1f10c5f9a6ca" /><p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -57,3 +57,33 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+Admin Panel
+
+<img width="960" height="410" alt="admin side profile setting" src="https://github.com/user-attachments/assets/c4c21cbe-1c4f-4576-97ae-1526f880996f" />
+<img width="960" height="418" alt="admin side item management" src="https://github.com/user-attachments/assets/d059e660-4db6-4b64-ba48-68c809448722" />
+<img width="960" height="413" alt="admin side Edit categary" src="https://github.com/user-attachments/assets/a0103914-26dc-4eb0-8a8d-de963a040e25" /><img width="960" height="408" alt="product view part 1" src="https://github.com/user-attachments/assets/642bef7c-d46a-4be0-8b38-b5fd1827319a" />
+
+![Uploading product view part 2.png…]()
+
+
+<img width="960" height="396" alt="user dashbord part 2" src="https://github.com/user-attachments/assets/92736a2c-dc33-49f9-a7e9-c551b76a2aad" />
+<img width="960" height="405" alt="user dashbord part 1" src="https://github.com/user-attachments/assets/359463fa-2b07-4413-8954-207dd825640c" />
+
+<img width="960" height="383" alt="product serch page" src="https://github.com/user-attachments/assets/45ee19ec-be16-4e20-bf26-18ded6fc054d" />
+<img width="960" height="425" alt="customer feedback page" src="https://github.com/user-attachments/assets/40435db4-cd3a-482b-bee2-ae980983f3ad" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
